@@ -19,3 +19,24 @@ Files
 <br />
 - hsh.c: Runs the shell process. It’s the main file that uses and executes most functions within the file.
 <br />
+- _getenv.c: Functions which are used to retrieve and copy environment variables. 
+<br />
+- _getline.c: Puts input from user into the buffer line. 
+<br />
+- _which.c: Searches directories in path for commands. 
+<br />
+- built_exe.c: Executes the builtin functions. 
+<br />
+- builtins.c: Exits the shell. 
+<br />
+- freeing.c: Frees all possible malloc leaks at the end. 
+<br />
+- _child.c: Function for child process.
+<br />
+- _prompt.c: Checks mode and prints prompt. 
+<br />
+- _tokenization.c: Tokenizes a string. 
+<br />
+- errors.c: Prints errors based on case. 
+<br />
+- str_functions.c: Compares two strings, copies the string to buffer, then returns the length of a string. 
