@@ -13,6 +13,7 @@ The syntax for shell commands varies depending on the specific command and the s
 There are two built-ins programmed into the shell. 
 <br />
 - env - The env command is a command that tells the shell program to display all of the environment variables with their values. It is a way to access those values through the shell.
+- <br />
 - exit - Terminates the current process and returns control to the operating system.
 <br />
 <hr>
