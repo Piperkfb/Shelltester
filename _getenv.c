@@ -1,7 +1,7 @@
 #include "header.h"
 /**
  * _getenv - gets an environment variable
- * @name: environment varuable to get
+ * @name: environment variable to get
  * Return: pointer to environment variable or NULL if there is no match
  */
 char *_getenv(const char *name)
