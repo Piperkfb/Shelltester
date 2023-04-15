@@ -28,7 +28,7 @@ Files
 <li>built_exe.c: Executes the builtin functions.</li>
 <li>builtins.c: Exits the shell.</li>
 <li>freeing.c: Frees all possible malloc leaks at the end.</li>
-<li>_child.c: Function for child process.</ul>
+<li>_child.c: Function for child process.</li>
 <li>_prompt.c: Checks mode and prints prompt.</li> 
 <li>_tokenization.c: Tokenizes a string.</li> 
 <li>errors.c: Prints errors based on case.</li>
