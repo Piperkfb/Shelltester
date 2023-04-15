@@ -13,3 +13,6 @@ There are two built-ins programmed into the shell.
 <br />
 Files
 <br />
+*[README](http://README.md): A list of current files and a brief explanation about this project.
+*header.h: This is a header file, which uses functions, variables, and other constructs that are defined in source files and libraries.
+*hsh.c: Runs the shell process. It’s the main file that uses and executes most functions within the file.
