@@ -34,3 +34,9 @@ Files
 <li>errors.c: Prints errors based on case.</li>
 <li>str_functions.c: Compares two strings and copies the string to buffer.</li> 
 </ul>
+
+## Contributors
+<br />
+Piper Finleybrown - developer - Implemented the command execution of functions. 
+<br />
+Stephaine Biggs - developer - Contributed to command execution, README file, and Man page. 
