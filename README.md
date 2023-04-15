@@ -37,6 +37,6 @@ There are two built-ins programmed into the shell.
 
 ## Contributors
 <br />
-Piper Finleybrown - developer - Implemented the command execution of functions.
+Piper Finleybrown - Developer - Implemented the command execution of functions.
 <br />
-Stephaine Biggs - developer - Command execution, README file, and Man page.
+Stephaine Biggs - Developer - Command execution, README file, and Man page.
