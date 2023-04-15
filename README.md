@@ -37,6 +37,6 @@ Files
 
 ## Contributors
 <br />
-Piper Finleybrown - developer - Implemented the command execution of functions. 
+Piper Finleybrown - developer - Implemented the command execution of functions.
 <br />
-Stephaine Biggs - developer - Contributed to command execution, README file, and Man page. 
+Stephaine Biggs - developer - Command execution, README file, and Man page.
