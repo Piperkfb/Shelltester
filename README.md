@@ -1,3 +1,6 @@
+Simple Shell
+<hr>
+<br />
 Shell is a program that provides a command-line interface for interacting with an operating system. It allows you to type commands that the computer will execute, and provides a way to navigate the file system, launch applications, and perform various other tasks.
 <br />
 
