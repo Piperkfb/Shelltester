@@ -16,7 +16,7 @@ There are two built-ins programmed into the shell.
 - exit - Terminates the current process and returns control to the operating system.
 <br />
 <hr>
-## Files
+<b> Files
 <br />
 <ul>
 <li>README.md: A list of current files and a brief explanation about this project.</li>
