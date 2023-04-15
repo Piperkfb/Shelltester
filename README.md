@@ -14,9 +14,9 @@ There are two built-ins programmed into the shell.
 <br />
 <ul>
 <li>env - The env command is a command that tells the shell program to display all of the environment variables with their values. It is a way to access those values through the shell.</li>
-- <br />
-  <li>exit - Terminates the current process and returns control to the operating system.</li>
-  </ul>
+<br />
+<li>exit - Terminates the current process and returns control to the operating system.</li>
+</ul>
 <br />
 <hr>
 <b> Files </b>
