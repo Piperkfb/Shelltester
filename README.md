@@ -1,6 +1,6 @@
 Shell is a program that provides a command-line interface for interacting with an operating system. It allows you to type commands that the computer will execute, and provides a way to navigate the file system, launch applications, and perform various other tasks.
 <br />
-Syntax
+#Syntax
 <br />
 The syntax for shell commands varies depending on the specific command and the shell being used. However, most shell commands follow a basic structure that includes the name of the command followed by one or more arguments.  
 <br />
